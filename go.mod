@@ -1,6 +1,6 @@
 // +heroku goVersion go1.17
 
-module github.com/finb/bark-server
+module github.com/finb/bark-server/v2
 
 go 1.23
 
